@@ -53,7 +53,7 @@ def home():
         <div class="box">
             <h1>🚀 CI/CD Pipeline Updated!</h1>
             <p>Deployed using Jenkins, Docker & AWS EC2</p>
-            <p class="version">✔ Version 2 Auto Redeployed via Webhook</p>
+            <p class="version">✔ Version 3  I am mansi</p>
             <div class="time">Last Updated: {current_time}</div>
         </div>
     </body>
